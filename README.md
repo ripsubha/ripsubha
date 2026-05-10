@@ -1,14 +1,5 @@
-<p align="center">
-  <img src="arkhai.jpeg" width="100%" alt="Banner" />
-</p>
-
-<br>
-
-<p align="center">
-  <em>This world is inhabited by creatures called Pokémon.</em><br>
-  <em>And then there are those who journey alongside them.</em><br>
-  <em>This is one such trainer. Just left home. A Froakie for company. The road ahead — unknown.</em>
-</p>
+<h1 align="center">👋 Hey! I'm Subha</h1>
+<p align="center">A rookie trainer who just left home. The adventure starts now.</p>
 
 <br>
 
@@ -20,25 +11,30 @@
   <sub>Picked in Kalos · Day 1</sub>
 </p>
 
-<br>
+---
 
-<p align="center"><em>— Badge Case —</em></p>
+### 🏅 Badge Case
 
-<p align="center">
-  <img src="badges.png" width="420" alt="Badge Case" />
-</p>
+| 🛠️ Bug | 🌿 Plant | 🧗 Cliff | ⛲ Rumble | ⚡ Voltage | 🧚 Fairy | 🧪 Psychic | ❄️ Iceberg |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-<br>
+<p align="center"><sub>0 / 8 badges earned</sub></p>
 
-<p align="center">
-  <sub><em>SUBHA. Species: Unknown. Data: Insufficient. Journey: Just began.</em></sub>
-</p>
+---
 
-<br><br>
+<h3 align="center">📖 Pokédex</h3>
 
 <p align="center">
-  <img src="caterpie.png" width="100" alt="Caterpie" />
+  <img src="pokedex.png" width="180" alt="Pokédex" />
 </p>
+
 <p align="center">
-  <em>A wild CATERPIE appeared!</em>
+  <img src="emptylog.png" width="600" alt="Pokédex Entries" />
 </p>
+
+<p align="center"><sub>0 / 151 caught · No entries yet.</sub></p>
+
+---
+
+<p align="center">⚡ A wild <b>Bug</b> appeared!</p>
