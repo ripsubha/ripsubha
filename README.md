@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="oak.png" width="120" alt="Prof. Oak" />
+  <img src="profoak.png" width="120" alt="Prof. Oak" />
 </p>
 
 <p align="center">
