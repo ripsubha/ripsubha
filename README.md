@@ -6,14 +6,34 @@
 ### 🐸 My Starter
 
 <p align="center">
-  <img src="froakie.png" width="180" alt="Froakie" />
+  <img src="froakie.jpeg" width="160" alt="Froakie" />
 </p>
 
 <p align="center"><strong>Froakie</strong> — Water type · Picked in Kalos · Day 1</p>
 
 ---
 
+### 🎒 The Backpack
+
+- **Town Map:** Exploring the world of Open Source.
+- **Items:** 5x Pokéballs, 1x Potion, 1x Fresh Water.
+- **TMs:** `Python`, `C++`, `Git`.
+
+---
+
+### 🏅 Badge Case
+
+| 🛠️ | 🌿 | 🧗 | ⛲ | ⚡ | 🧚 | 🧪 | ❄️ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+
+---
+
 ### 📖 Pokédex
+
+<p align="center">
+  <img src="pokedex.jpeg" width="280" alt="Pokédex" />
+</p>
 
 > 🔲 🔲 🔲 🔲 🔲 🔲  
 > 🔲 🔲 🔲 🔲 🔲 🔲  
@@ -29,4 +49,4 @@
 
 ---
 
-<p align="center"><em>⚡ A wild <strong>WildEncounter</strong> appeared!</em></p>
+<p align="center"><em>⚡ A wild <strong>Bug</strong> appeared!</em></p>
