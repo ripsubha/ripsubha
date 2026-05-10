@@ -17,7 +17,7 @@
 
 - **Town Map:** Exploring the world of Open Source.
 - **Items:** 5x Pokéballs, 1x Potion, 1x Fresh Water.
-- **TMs:** `Python`, `C++`, `Git`.
+- **TMs:** .
 
 ---
 
