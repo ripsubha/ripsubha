@@ -1,16 +1,14 @@
-> *This world is inhabited by creatures called Pokémon.*
-> 
-> *And then there are those who journey alongside them.*
-> 
-> *This is one such trainer. Just left home. A Froakie for company.*
-> *The road ahead — unknown.*
->
-> **— Prof. Oak**
+<p align="center">
+  <em>This world is inhabited by creatures called Pokémon.</em><br>
+  <em>And then there are those who journey alongside them.</em>
+</p>
 
-<h3 align="center">Ah, right! What was your name again?</h3>
-<h1 align="center">SUBHA</h1>
+<p align="center">
+  <em>This is one such trainer. Just left home. A Froakie for company.</em><br>
+  <em>The road ahead — unknown.</em>
+</p>
 
-<br>
+<p align="center"><sub>— Prof. Oak</sub></p>
 
 <p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
