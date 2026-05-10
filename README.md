@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="profoak.png" width="120" alt="Prof. Oak" />
-</p>
-
-<p align="center">
-  <em>This world is inhabited by creatures called Pokémon.</em><br>
-  <em>And then there are those who journey alongside them.</em>
-</p>
-
-<p align="center">
-  <em>This is one such trainer. Just left home. A Froakie for company.</em><br>
-  <em>The road ahead — unknown.</em>
-</p>
-
-<p align="center"><sub>— Prof. Oak</sub></p>
+<table align="center">
+  <tr>
+    <td width="140" align="center">
+      <img src="profoak.png" width="120" alt="Prof. Oak" />
+    </td>
+    <td>
+      <em>This world is inhabited by creatures called Pokémon.</em><br><br>
+      <em>And then there are those who journey alongside them.</em><br><br>
+      <em>This is one such trainer. Just left home. A Froakie for company.</em><br>
+      <em>The road ahead — unknown.</em>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
