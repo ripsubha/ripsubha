@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Arkhai.jpeg" height="220" width="100%" alt="Banner" />
-</p>
-
 <h1 align="center">👋 Hey! I'm Subha</h1>
 <p align="center">A rookie trainer who just left home. The adventure starts now.</p>
 
@@ -42,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="caterpie.png" width="60" alt="Caterpie" />
+  <img src="caterpie.png" width="80" alt="Caterpie" />
   <br>
   ⚡ A wild <b>Caterpie</b> appeared!
 </p>
