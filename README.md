@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="oak.png" width="120" alt="Prof. Oak" />
+</p>
+
+<p align="center">
   <em>This world is inhabited by creatures called Pokémon.</em><br>
   <em>And then there are those who journey alongside them.</em>
 </p>
