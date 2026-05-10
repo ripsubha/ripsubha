@@ -1,5 +1,14 @@
-<h1 align="center">👋 Hey! I'm Subha</h1>
-<p align="center">A rookie trainer who just left home. The adventure starts now.</p>
+> *This world is inhabited by creatures called Pokémon.*
+> 
+> *And then there are those who journey alongside them.*
+> 
+> *This is one such trainer. Just left home. A Froakie for company.*
+> *The road ahead — unknown.*
+>
+> **— Prof. Oak**
+
+<h3 align="center">Ah, right! What was your name again?</h3>
+<h1 align="center">SUBHA</h1>
 
 <br>
 
