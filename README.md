@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Arkhai.jpeg" width="100%" alt="Banner" />
+  <img src="Arkhai.jpeg" height="220" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hey! I'm Subha</h1>
