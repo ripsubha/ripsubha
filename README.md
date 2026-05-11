@@ -1,6 +1,7 @@
 <img src="froakie.png" width="70" alt="Froakie" align="left" />
 
-> #### 🐸 hii.. I'm Froakie — party lead, how can I help you 🫧
+> [!NOTE]
+> ### 🐸 hii.. I'm Froakie — party lead, how can I help you 🫧
 
 <br clear="left" />
 
