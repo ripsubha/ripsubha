@@ -1,6 +1,6 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="froakie.png" width="70" alt="Froakie" align="left" />
-<kbd>&nbsp;&nbsp;🐸 <b>hii.. I'm Froakie — party lead, how can I help you</b> 🫧&nbsp;&nbsp;</kbd>
-<br clear="left" />
+> <img src="froakie.png" width="70" alt="Froakie" align="left" />
+> <kbd>&nbsp;&nbsp;🐸 <b>hii.. I'm Froakie — party lead, how can I help you</b> 🫧&nbsp;&nbsp;</kbd>
+> <br clear="left" />
 
 ---
 
