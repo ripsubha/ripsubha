@@ -99,10 +99,4 @@
   Sprite list: https://pokeapi.co/
 -->
 
----
 
-<!-- OPTION 2 -->
-<p align="center">💾 <em>Save progress?</em> ▶ <b>Yes</b></p>
-
-<!-- OPTION 3 -->
-<p align="center"><em>Thanks for stopping by. Take a Potion for the road.</em> 🧪</p>
