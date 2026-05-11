@@ -18,42 +18,9 @@
 
 ### 🏅 Badge Case
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <img src="bug-removebg-preview.png" width="40" height="40" alt="Bug Badge" /><br>
-      <sub>🔒 Bug</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="plant-removebg-preview.png" width="40" height="40" alt="Plant Badge" /><br>
-      <sub>🔒 Plant</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="cliff-removebg-preview.png" width="40" height="40" alt="Cliff Badge" /><br>
-      <sub>🔒 Cliff</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="rumble-removebg-preview.png" width="40" height="40" alt="Rumble Badge" /><br>
-      <sub>🔒 Rumble</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="voltage-removebg-preview.png" width="40" height="40" alt="Voltage Badge" /><br>
-      <sub>🔒 Voltage</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="fairy-removebg-preview.png" width="40" height="40" alt="Fairy Badge" /><br>
-      <sub>🔒 Fairy</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="psychic-removebg-preview.png" width="40" height="40" alt="Psychic Badge" /><br>
-      <sub>🔒 Psychic</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="iceberg-removebg-preview.png" width="40" height="40" alt="Iceberg Badge" /><br>
-      <sub>🔒 Iceberg</sub>
-    </td>
-  </tr>
-</table>
+| <img src="bug-removebg-preview.png" width="36" /> | <img src="plant-removebg-preview.png" width="36" /> | <img src="cliff-removebg-preview.png" width="36" /> | <img src="rumble-removebg-preview.png" width="36" /> | <img src="voltage-removebg-preview.png" width="36" /> | <img src="fairy-removebg-preview.png" width="36" /> | <img src="psychic-removebg-preview.png" width="36" /> | <img src="iceberg-removebg-preview.png" width="36" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🔒 Bug | 🔒 Plant | 🔒 Cliff | 🔒 Rumble | 🔒 Voltage | 🔒 Fairy | 🔒 Psychic | 🔒 Iceberg |
 
 <p align="center"><sub>0 / 8 badges earned</sub></p>
 
