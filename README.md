@@ -1,7 +1,7 @@
 <p>
   <img src="froakie.png" width="60" alt="Froakie" />
   &nbsp;
-  <kbd>🐸 Hey there! I'm Froakie — your water starter and party lead!</kbd>
+  <kbd>&nbsp;🐸 <b>I'm Froakie — starter, party lead, and your bubble-slinging partner through Kalos</b> 🫧&nbsp;</kbd>
 </p>
 
 ---
