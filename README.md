@@ -3,15 +3,23 @@
   <img src="https://img.shields.io/badge/Region-Kalos-9ece6a?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Status-Rookie-f7768e?style=for-the-badge&labelColor=1a1b27" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Starter-Froakie-6390F0?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Type-Water-6390F0?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Pokédex-6%2F12-bb9af7?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Badges-0%2F8-e0af68?style=flat-square&labelColor=1a1b27" />
+</p>
 
-<h3 align="center">Meet my partner</h3>
+<p align="center"><em>Just left home. A Froakie for company. The road ahead — unknown.</em></p>
+
+<h3 align="center">🐸 Starter Pokémon</h3>
 
 <p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
 </p>
 <p align="center">
   <b>Froakie</b> · Water type<br>
-  <sub>Picked in Kalos · Day 1</sub>
+  <sub>My partner in this journey · Picked in Kalos</sub>
 </p>
 
 ---
