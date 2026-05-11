@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="froakie.png" width="80" alt="Froakie" /><br>
+  <sub>#656 Froakie · Water · Protean</sub>
+</p>
+
+---
+
+
+
+
 ### 🏅 Badge Case
 
 | <img src="bug-removebg-preview.png" width="36" /> | <img src="plant-removebg-preview.png" width="36" /> | <img src="cliff-removebg-preview.png" width="36" /> | <img src="rumble-removebg-preview.png" width="36" /> | <img src="voltage-removebg-preview.png" width="36" /> | <img src="fairy-removebg-preview.png" width="36" /> | <img src="psychic-removebg-preview.png" width="36" /> | <img src="iceberg-removebg-preview.png" width="36" /> |
