@@ -1,8 +1,9 @@
-<p>
-  <img src="froakie.png" width="60" alt="Froakie" />
-  &nbsp;
-  <kbd>&nbsp;🐸 <b>I'm Froakie — starter, party lead, and your bubble-slinging partner through Kalos</b> 🫧&nbsp;</kbd>
-</p>
+<table>
+  <tr>
+    <td><img src="froakie.png" width="70" alt="Froakie" /></td>
+    <td><h4>🐸 hii.. I'm Froakie — the party lead, how can I help you 🫧</h4></td>
+  </tr>
+</table>
 
 ---
 
