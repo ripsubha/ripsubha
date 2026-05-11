@@ -38,24 +38,24 @@
       <sub><b>#656</b><br>Froakie ✅</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
-      <sub>#???<br>???</sub>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="48" alt="Pikachu" /><br>
+      <sub><b>#025</b><br>Pikachu ✅</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
-      <sub>#???<br>???</sub>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" width="48" alt="Caterpie" /><br>
+      <sub><b>#010</b><br>Caterpie ✅</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
-      <sub>#???<br>???</sub>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" width="48" alt="Eevee" /><br>
+      <sub><b>#133</b><br>Eevee ✅</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
-      <sub>#???<br>???</sub>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="48" alt="Lucario" /><br>
+      <sub><b>#448</b><br>Lucario ✅</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
-      <sub>#???<br>???</sub>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/661.png" width="48" alt="Fletchling" /><br>
+      <sub><b>#661</b><br>Fletchling ✅</sub>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-<p align="center"><sub>1 / 12 caught</sub></p>
+<p align="center"><sub>6 / 12 caught</sub></p>
 
 <!--
   HOW TO CATCH A POKÉMON:
