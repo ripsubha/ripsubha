@@ -1,9 +1,6 @@
-<table>
-  <tr>
-    <td><img src="froakie.png" width="70" alt="Froakie" /></td>
-    <td><h4>🐸 hii.. I'm Froakie — the party lead, how can I help you 🫧</h4></td>
-  </tr>
-</table>
+<img src="froakie.png" width="70" alt="Froakie" align="left" />
+<kbd>&nbsp;&nbsp;🐸 <b>hii.. I'm Froakie — party lead, how can I help you</b> 🫧&nbsp;&nbsp;</kbd>
+<br clear="left" />
 
 ---
 
