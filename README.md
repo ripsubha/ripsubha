@@ -1,11 +1,14 @@
-
-<p align="center">
-  <img src="froakie.png" width="80" alt="Froakie" /><br>
-  <sub>#656 Froakie · Water · Protean</sub>
-</p>
-
----
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="froakie.png" width="60" alt="Froakie" />
+    </td>
+    <td>
+      <b>#656 Froakie</b> · Water<br>
+      <sub>🐸 Starter · Ability: Protean</sub>
+    </td>
+  </tr>
+</table>
 
 
 
