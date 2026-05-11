@@ -1,18 +1,17 @@
-<table align="center">
-  <tr>
-    <td>
-      <img src="froakie.png" width="60" alt="Froakie" />
-    </td>
-    <td>
-      <b>#656 Froakie</b> · Water<br>
-      <sub>🐸 Starter · Ability: Protean</sub>
-    </td>
-  </tr>
-</table>
+<h4 align="center">🐸 Party Lead</h4>
 
+<p align="center">
+  <img src="froakie.png" width="100" alt="Froakie" />
+</p>
+<p align="center">
+  <b>#656 Froakie</b> · Water · Protean<br>
+  <sub>0.3m · 7.0kg</sub><br>
+  <sub><em>"Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."</em></sub>
+</p>
 
+---
 
-### 🏅 Badge Case
+<h3 align="center">🏅 Badge Case</h3>
 
 | <img src="bug-removebg-preview.png" width="36" /> | <img src="plant-removebg-preview.png" width="36" /> | <img src="cliff-removebg-preview.png" width="36" /> | <img src="rumble-removebg-preview.png" width="36" /> | <img src="voltage-removebg-preview.png" width="36" /> | <img src="fairy-removebg-preview.png" width="36" /> | <img src="psychic-removebg-preview.png" width="36" /> | <img src="iceberg-removebg-preview.png" width="36" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
