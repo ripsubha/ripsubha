@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="froakie.png" width="60" alt="Froakie" />
-  &nbsp;&nbsp;
-  <b>#656 Froakie</b> · Water · Protean
-  &nbsp;·&nbsp;
-  <em>🐸 Party Lead</em>
+<p>
+  <img src="froakie.png" width="40" alt="Froakie" />
+  &nbsp;
+  💬 <em>"Hi, I'm Froakie — first pick, party lead, always ready 🫧"</em>
 </p>
 
 ---
