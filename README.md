@@ -1,18 +1,7 @@
-<table align="center">
-  <tr>
-    <td width="140" align="center">
-      <img src="profoak.png" width="120" alt="Prof. Oak" />
-    </td>
-    <td>
-      <em>This world is inhabited by creatures called Pokémon.</em><br>
-      <em>And then there are those who journey alongside them.</em><br><br>
-      <em>This is one such trainer. Just left home. A Froakie for company.</em><br>
-      <em>The road ahead — unknown.</em>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hey there 👋</h1>
+<p align="center"><em>Rookie trainer. Somewhere in Kalos. The adventure starts now.</em></p>
 
-<br>
+<h3 align="center">Meet my partner</h3>
 
 <p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
