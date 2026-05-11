@@ -1,3 +1,8 @@
+<h3 align="center">▶️ NEW GAME</h3>
+<p align="center"><sub>A rookie trainer from Kalos has started their adventure.</sub></p>
+
+<br>
+
 <p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
 </p>
