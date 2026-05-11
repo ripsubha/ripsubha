@@ -28,14 +28,75 @@
 <h3 align="center">📖 Pokédex</h3>
 
 <p align="center">
-  <img src="pokedex.png" width="180" alt="Pokédex" />
+  <img src="pokedex.png" width="140" alt="Pokédex" />
 </p>
 
-<p align="center">
-  <img src="emptylog.png" width="600" alt="Pokédex Entries" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png" width="48" alt="Froakie" /><br>
+      <sub><b>#656</b><br>Froakie ✅</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png" width="48" alt="???" /><br>
+      <sub>#???<br>???</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><sub>0 / 151 caught · No entries yet.</sub></p>
+<p align="center"><sub>1 / 12 caught</sub></p>
+
+<!--
+  HOW TO CATCH A POKÉMON:
+  Replace the image URL number with the Pokédex number, e.g.:
+  pokemon/0.png → pokemon/25.png (Pikachu)
+  pokemon/0.png → pokemon/6.png (Charizard)
+  Then update #??? → #025 and ??? → Pikachu ✅
+  
+  Sprite list: https://pokeapi.co/
+-->
 
 ---
 
