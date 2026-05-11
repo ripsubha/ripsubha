@@ -1,18 +1,22 @@
 <p>
-  <img src="froakie.png" width="40" alt="Froakie" />
+  <img src="froakie.png" width="60" alt="Froakie" />
   &nbsp;
-  💬 <em>"Hi, I'm Froakie — first pick, party lead, always ready 🫧"</em>
+  <kbd>🐸 Hey there! I'm Froakie — your water starter and party lead!</kbd>
 </p>
 
 ---
 
 <h3 align="center">🏅 Badge Case</h3>
 
+<div align="center">
+
 | <img src="bug-removebg-preview.png" width="36" /> | <img src="plant-removebg-preview.png" width="36" /> | <img src="cliff-removebg-preview.png" width="36" /> | <img src="rumble-removebg-preview.png" width="36" /> | <img src="voltage-removebg-preview.png" width="36" /> | <img src="fairy-removebg-preview.png" width="36" /> | <img src="psychic-removebg-preview.png" width="36" /> | <img src="iceberg-removebg-preview.png" width="36" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 🔒 Bug | 🔒 Plant | 🔒 Cliff | 🔒 Rumble | 🔒 Voltage | 🔒 Fairy | 🔒 Psychic | 🔒 Iceberg |
 
 <p align="center"><sub>0 / 8 badges earned</sub></p>
+
+</div>
 
 ---
 
