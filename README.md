@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/TRAINER-WildEncounter-6390F0?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/CLASS-Rookie-e0af68?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/REGION-Kalos-9ece6a?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/TRAINER_CARD-6390F0?style=for-the-badge&labelColor=1a1b27" />
+</p>
+
+<p align="center">
+  <kbd>WildEncounter</kbd> · <kbd>Rookie Trainer</kbd> · <kbd>Kalos Region</kbd>
 </p>
 
 <h3 align="center">🐸 Starter Pokémon</h3>
@@ -10,8 +12,9 @@
   <img src="froakie.png" width="150" alt="Froakie" />
 </p>
 <p align="center">
-  <b>#656 Froakie</b><br>
-  <sub>Water · Torrent · Protean (Hidden)</sub>
+  <kbd>#656</kbd> <b>Froakie</b> · Water<br>
+  <sub>Ability: Torrent · Hidden: Protean</sub><br>
+  <sub>Height: 0.3m · Weight: 7.0kg</sub>
 </p>
 
 
