@@ -1,21 +1,3 @@
-<p align="center">
-  <img src="Arkhai.jpeg" width="100%" alt="Kalos" />
-</p>
-
-<p align="center">
-  <img src="florian_pokemon-removebg-preview.png" height="160" alt="Trainer" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="froakie.png" height="160" alt="Froakie" />
-</p>
-
-<p align="center">
-  <kbd>WildEncounter</kbd> · <kbd>Rookie Trainer</kbd> · <kbd>Kalos</kbd>
-  &nbsp;&nbsp;&nbsp;
-  <kbd>#656 Froakie</kbd> · <kbd>Water</kbd> · <kbd>Protean</kbd>
-</p>
-
----
-
 ### 🏅 Badge Case
 
 | <img src="bug-removebg-preview.png" width="36" /> | <img src="plant-removebg-preview.png" width="36" /> | <img src="cliff-removebg-preview.png" width="36" /> | <img src="rumble-removebg-preview.png" width="36" /> | <img src="voltage-removebg-preview.png" width="36" /> | <img src="fairy-removebg-preview.png" width="36" /> | <img src="psychic-removebg-preview.png" width="36" /> | <img src="iceberg-removebg-preview.png" width="36" /> |
@@ -98,6 +80,3 @@
   
   Sprite list: https://pokeapi.co/
 -->
-
----
-
