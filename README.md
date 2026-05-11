@@ -1,16 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6390F0&height=180&section=header&text=WildEncounter&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Rookie+Trainer+·+Kalos+Region&descSize=14&descAlignY=55&descColor=a9b1d6" width="100%" />
-
-<h3 align="center">🐸 Starter Pokémon</h3>
-
 <p align="center">
-  <img src="froakie.png" width="150" alt="Froakie" />
-</p>
-<p align="center">
-  <kbd>#656</kbd> <b>Froakie</b> · Water<br>
-  <sub>Ability: Torrent · Hidden: Protean</sub><br>
-  <sub>0.3m · 7.0kg</sub>
+  <img src="Arkhai.jpeg" width="100%" alt="Kalos" />
 </p>
 
+<p align="center">
+  <img src="florian_pokemon-removebg-preview.png" height="160" alt="Trainer" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="froakie.png" height="160" alt="Froakie" />
+</p>
+
+<p align="center">
+  <kbd>WildEncounter</kbd> · <kbd>Rookie Trainer</kbd> · <kbd>Kalos</kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd>#656 Froakie</kbd> · <kbd>Water</kbd> · <kbd>Protean</kbd>
+</p>
 
 ---
 
@@ -96,3 +98,6 @@
   
   Sprite list: https://pokeapi.co/
 -->
+
+---
+
