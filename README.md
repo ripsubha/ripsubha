@@ -1,7 +1,9 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Welcome, Trainer!</h1>
 <p align="center"><em>Rookie trainer. Somewhere in Kalos. The adventure starts now.</em></p>
 
-<h3 align="center">Meet my partner</h3>
+<br>
+
+<h3 align="center">🐸 My first Pokémon</h3>
 
 <p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
@@ -38,7 +40,6 @@
 ---
 
 <p align="center">
-  <img src="caterpie.png" width="80" alt="Caterpie" />
-  <br>
+  <img src="caterpie.png" width="80" alt="Caterpie" /><br>
   ⚡ A wild <b>Caterpie</b> appeared!
 </p>
