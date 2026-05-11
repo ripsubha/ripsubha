@@ -4,11 +4,17 @@
 <br>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Chose+Froakie+as+my+starter...;Exploring+the+Kalos+region...;The+adventure+has+just+begun.&color=6390F0&center=true&width=420&height=45&font=Fira+Code&size=18&pause=1200&vCenter=true" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="froakie.png" width="150" alt="Froakie" />
 </p>
 <p align="center">
   <b>Froakie</b> · Water type<br>
-  <sub>Picked in Kalos · Day 1</sub>
+  <sub>My partner in this journey · Picked in Kalos</sub>
 </p>
 
 ---
