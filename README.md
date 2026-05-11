@@ -1,12 +1,9 @@
-<h4 align="center">🐸 Party Lead</h4>
-
 <p align="center">
-  <img src="froakie.png" width="100" alt="Froakie" />
-</p>
-<p align="center">
-  <b>#656 Froakie</b> · Water · Protean<br>
-  <sub>0.3m · 7.0kg</sub><br>
-  <sub><em>"Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."</em></sub>
+  <img src="froakie.png" width="60" alt="Froakie" />
+  &nbsp;&nbsp;
+  <b>#656 Froakie</b> · Water · Protean
+  &nbsp;·&nbsp;
+  <em>🐸 Party Lead</em>
 </p>
 
 ---
